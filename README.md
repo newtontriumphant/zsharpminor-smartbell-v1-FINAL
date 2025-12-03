@@ -6,8 +6,6 @@ BOM CSV FILE: https://docs.google.com/spreadsheets/d/1LvQgwua6umSP1ob7BG9KYe2bF_
 
 (BOM and placement CSV files also placed inside the PCB folder for easy access).
 
-**NOTE**: Fusion keeps crashing on me when I attempt to export the assembled build file; so I cannot export it at this point. Screenshots are below! :/
-
 # BOM:
 
 **GRANT REQUIRED: $30.00**
