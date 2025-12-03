@@ -2,6 +2,8 @@
 
 Hi, thanks for reviewing my project! ;w; This is an ESP32-powered smart doorbell with smart AI-powered detection, that automatically captures a picture that is sent to a Discord webhook via WiFi when the doorbell is rung, which triggers an integration that can set off a custom ringtone on a mobile app. Features near-waterproof PETG/TPU case and a temperature sensor that automatically reports Temperature and Humidity to said webhook as well. Additionally, an ultrasonic sensor detects movement and wakes up the camera to take a picture and identify it through a simple ML algorithm. NOTE: This is a software-heavy project, I am aiming for this to be a Tier 4 project, and Tanook agreed that it qualifies as Tier 4 (under the condition that a CAD case exists, which it does!).
 
+I built this project for a few reasons: firstly, the doorbell I have is non-functional, and I can't be asked to give Amazon 100 dollars of my hard-earned money to sell my data through a Ring doorbell. Secondly, I wanted some more experience in building a near-100% waterproof case design with PETG and TPU gaskets. The goal of this project was to keep the total cost under half that of a commercially available substitute - and still get the thrill of designing it myself; I think that I did a good job. Screenshots of the CAD design (both assembled and unassembled) are at the bottom of the README.
+
 BOM CSV FILE: https://docs.google.com/spreadsheets/d/1LvQgwua6umSP1ob7BG9KYe2bF_PC_YEmnamfS4FcfZg/
 
 (BOM and placement CSV files also placed inside the PCB folder for easy access).
