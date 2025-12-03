@@ -41,6 +41,10 @@ Self-Provided:
 
 * 1x Case to be entirely 3d-printed in near-waterproof PETG with TPU seals (self-provided), iterations may occur.
 
+(NOTE: the case intentionally has an empty space to the right; this is for the AHT20 temp/humi sensor as well as a LiPo battery (I'm experimenting with a few battery sizes!)
+
+PCB will be glued to the back of the case, and the top will be water sealed with a TPU gasket and water-resistant sealant.
+
 # Empty CAD case:
 
 <img width="558" height="375" alt="Screenshot 2025-12-02 at 7 40 02 PM" src="https://github.com/user-attachments/assets/c2aaa5fb-d5cb-4636-a425-9a6b0ca29d3d" />
