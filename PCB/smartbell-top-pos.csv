@@ -1,0 +1,8 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"BZ1","Buzzer","Buzzer_12x9.5RM7.6",108.700000,-53.600000,180.000000,top
+"D1","LED","LED_D5.0mm",72.425000,-53.400000,0.000000,top
+"J1","Conn_01x04","PinHeader_1x04_P2.54mm_Horizontal",85.390000,-43.485000,90.000000,top
+"J2","stemma","PinHeader_1x04_P2.54mm_Horizontal",101.915000,-72.740000,0.000000,top
+"R1","R","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",69.500000,-59.500000,0.000000,top
+"SW1","SW_Push","SW_PUSH-12mm",83.050000,-52.000000,0.000000,top
+"U1","XIAO-ESP32-S3-DIP","XIAO-ESP32S3-DIP",89.300000,-73.020000,180.000000,top

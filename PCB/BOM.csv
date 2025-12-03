@@ -1,0 +1,23 @@
+GRANT Items,Description,Quantity,Unit Price ($),Total Price ($),URL,NET PRICE,Running Total
+,,,,,,,
+SEEED Studios XIAO ESP32-S3-SENSE DIP,Micro,1,12.59,12.59,https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html,19.01,19.01
+JLCPCB,PCB,1,0.8,4 (MOQ 5),https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&spm=Jlcpcb.Homepage.1010,4.29,23.3
+JLCPCB Shipping,PCB,1,4,4,"N/A - Global Standard Direct Line, Cheapest Option.",4.29,27.59
+,,,,,,,
+FINAL PRICE FOR GRANT ITEMS:,$30.00,(rounded from $27.59,due to tariffs),,,,
+,,,,,,,
+SELF-PROVIDED Items,Description,Quantity,Unit Price ($),,,,
+,,,,,,,
+3D-printed case (SELF-PROVIDED),Approx. 156g of PETG/TPU,1,0,,,,
+Standard Active Buzzer (SELF-PROVIDED),Doorbell Sound,1,0,,,,
+Standard 5mm Green LED (SELF-PROVIDED),Doorbell LED,1,0,,,,
+330 Ohm Resistor (SELF-PROVIDED),LED Resistor,1,0,,,,
+12mm Tactswitch And Cover (SELF-PROVIDED),Switch for Bell,1,0,,,,
+RA Female Header (SELF-PROVIDED),Header for STEMMA,4,0,,,,
+STEMMA to Male Cable (SELF-PROVIDED),Cable to connect AHT20,1,0,,,,
+AHT20 STEMMA Sensor (SELF-PROVIDED),Temp / Humi Sensor,1,0,,,,
+HC-SR04 Sensor (SELF-PROVIDED),Ultrasonic Sensor,1,0,,,,
+1500mah JST battery (SELF-PROVIDED),Power for Doorbell,1,0,,,,
+,,,,,,,
+NOTE: I DO **NOT** NEED A GRANT,,,,,,,
+FOR ANY OF THE SELF PROVIDED ITEMS.,,,,,,,
